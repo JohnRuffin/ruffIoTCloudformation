@@ -1,6 +1,6 @@
 [
     {
-            "ParameterKey": "GlobalOverrideTest",
-                "ParameterValue": "success"
+        "ParameterKey": "NameParameter",
+        "ParameterValue": "ruffcar1"
     }
 ]
